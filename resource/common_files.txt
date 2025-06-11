@@ -1,4 +1,4 @@
-####
+mohamed_38
 # Files to check
 # sintaxe>>>
 # filename_colon_regex
@@ -6,6 +6,7 @@
 
 ../../../../../../../../../../../../etc/passwd%00:root:.*:0
 ../../../../../../../../../../../../etc/passwd:root:.*:0
-/etc/passwd:root:.*:0
+/mohamed_39/passwd:root:.*:0
 /etc/passwd%00:root:.*:0
+
 
